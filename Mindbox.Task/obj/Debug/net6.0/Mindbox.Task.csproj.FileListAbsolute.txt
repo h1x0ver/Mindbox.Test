@@ -1,0 +1,12 @@
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\bin\Debug\net6.0\Mindbox.Task.deps.json
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\bin\Debug\net6.0\Mindbox.Task.dll
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\bin\Debug\net6.0\Mindbox.Task.pdb
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.AssemblyInfoInputs.cache
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.AssemblyInfo.cs
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.dll
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\refint\Mindbox.Task.dll
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\Mindbox.Task.pdb
+C:\Users\husey\OneDrive\Рабочий стол\asp.net\Mindbox.Task\Mindbox.Task\obj\Debug\net6.0\ref\Mindbox.Task.dll
